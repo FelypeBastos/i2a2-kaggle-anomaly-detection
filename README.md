@@ -1,4 +1,5 @@
-## Anomaly Detection Kaggle Private Competition: https://www.kaggle.com/c/chest-xray-anomaly-detection
+## Anomaly Detection Kaggle Private Competition: 
+https://www.kaggle.com/c/chest-xray-anomaly-detection
 
 #### 2nd place solution.
 
